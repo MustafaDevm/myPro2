@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
 
 root{
-    --main_color:rgb(206, 18, 18);
+    --main_color:rgb(206, 28, 18);
 }
 *{
     margin: 0;
